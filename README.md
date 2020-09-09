@@ -1,10 +1,10 @@
 ### Hi there 👋
 - :runner: I'm Veerendra
-- :india: Im from India
+- :india: I'm from India
 - :technologist: I'm a DevOps Engineer
-- :coffee: I love coffee
+- :coffee: I love coffee (specially while `$ troubleshooting` things)
 - :memo: I `python`, `shell`, `ansible`,`docker`, `kubernetes`, `openshift`, `elasticsearch`...
-- :fire: Im passionate about 
+- :fire: I'm passionate about 
   - :closed_lock_with_key: Information Security
   - :floppy_disk: Operating Systems(Linux)
   - :desktop_computer: Computer networking
