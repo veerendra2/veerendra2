@@ -2,6 +2,7 @@
 - :runner: I'm Veerendra
 - :india: Im from India
 - :technologist: I'm a DevOps Engineer
+- :coffee: I love coffee
 - :memo: I `python`, `shell`, `ansible`,`docker`, `kubernetes`, `openshift`, `elasticsearch`...
 - :fire: Im passionate about 
   - :closed_lock_with_key: Information Security
