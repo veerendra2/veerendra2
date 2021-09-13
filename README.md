@@ -17,6 +17,7 @@
 [<img src="https://img.shields.io/badge/Profile-LinkedIn-9cf">](https://www.linkedin.com/in/veerendrav2/)
 [<img src="https://img.shields.io/badge/Profile-Twitter-yellow">](https://twitter.com/veerendrav2)
 
+[<img src="https://user-images.githubusercontent.com/8393701/133156799-6a076696-48c2-41c7-b7b0-07d7e3b4b715.png" width="80">](https://www.credly.com/earner/earned/badge/4fa5dfdd-0a75-44cd-9e9b-5df70c42d905)
 
 
 <!--
