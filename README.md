@@ -11,7 +11,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=veerendra2&show_icons=true&theme=dark)
 
-[<img src="https://user-images.githubusercontent.com/8393701/133156799-6a076696-48c2-41c7-b7b0-07d7e3b4b715.png" width="80">](https://www.credly.com/badges/4fa5dfdd-0a75-44cd-9e9b-5df70c42d905)
+[<img src="https://user-images.githubusercontent.com/8393701/133156799-6a076696-48c2-41c7-b7b0-07d7e3b4b715.png" width="90">](https://www.credly.com/badges/4fa5dfdd-0a75-44cd-9e9b-5df70c42d905)
 
 [<img src="https://img.shields.io/badge/Blog-veerendra2.github.io-orange">](https://veerendra2.github.io)
 [<img src="https://img.shields.io/badge/Profile-Gitlab-blueviolet">](https://gitlab.com/veerendrav2)
