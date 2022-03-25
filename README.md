@@ -18,8 +18,9 @@
 [<img src="https://img.shields.io/badge/Blog-veerendra2.github.io-orange">](https://veerendra2.github.io)
 [<img src="https://img.shields.io/badge/Profile-Gitlab-blueviolet">](https://gitlab.com/veerendrav2)
 [<img src="https://img.shields.io/badge/Profile-Stack%20Overflow-blue">](https://stackoverflow.com/users/2200798/veerendra-kakumanu?tab=profile)
-[<img src="https://img.shields.io/badge/Profile-LinkedIn-9cf">](https://www.linkedin.com/in/veerendrav2/)
 [<img src="https://img.shields.io/badge/Profile-Twitter-yellow">](https://twitter.com/veerendrav2)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/veerendrav2/)](https://www.linkedin.com/in/veerendrav2/)
+
 
 
 
