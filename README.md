@@ -1,7 +1,7 @@
 ### `$ whoami`
 - :runner: I'm Veerendra
 - :india: I'm from India
-- :technologist: I'm a DevOps Engineer
+- :technologist: I'm a Senior Site Reliability Engineer
 - :coffee: I love coffee (specially while `$ troubleshooting` things)
 - :memo: I `python`, `shell`, `ansible`,`docker`, `kubernetes`, `openshift`, `elasticsearch`...
 - :fire: I'm passionate about 
