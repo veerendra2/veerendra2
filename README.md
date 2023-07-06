@@ -18,7 +18,7 @@
 
 [<img src="https://img.shields.io/badge/Blog-veerendra2.github.io-green?style=flat">](https://veerendra2.github.io)
 [<img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium">](https://veerendra2.medium.com/)
-[<img src="https://img.shields.io/badge/dev.to-12100E?style=flat&logo=dev.to">](https://veerendra2.medium.com/)
+[<img src="https://img.shields.io/badge/dev.to-12100E?style=flat&logo=dev.to">](https://dev.to/veerendra2)
 [<img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github">](https://github.com/veerendra2)
 [<img src="https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=white">](https://gitlab.com/veerendrav2)
 [<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white">](https://stackoverflow.com/users/2200798/veerendra-kakumanu?tab=profile)
