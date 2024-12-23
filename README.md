@@ -23,7 +23,7 @@
 [<img src="https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=white">](https://gitlab.com/veerendrav2)
 [<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white">](https://stackoverflow.com/users/2200798/veerendra-kakumanu?tab=profile)
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white">](https://twitter.com/remark6205)
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/veerendrav2/)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/veerendra-k/)
 
 
 
