@@ -3,7 +3,7 @@
 - :india: I'm from India
 - :technologist: I'm a Site Reliability Engineer
 - :coffee: I love coffee (specially while `$ troubleshooting` things)
-- :memo: I `python`, `shell`, `ansible`, `terraform`, `docker`, `kubernetes`, `openshift`...
+- :memo: I `python`, `go`, `shell`, `ansible`, `terraform`, `docker`, `kubernetes`,...
 - :fire: I'm passionate about 
   - :closed_lock_with_key: Information Security
   - :floppy_disk: Operating Systems(Linux)
