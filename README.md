@@ -1,6 +1,6 @@
 ### `$ whoami`
 
-Senior SRE & Platform Engineer based in Germany. Building and operating Kubernetes platforms, writing Go and Python tooling, and designing reliable infrastructure on Azure and AWS.
+SRE & Platform Engineer based in Germany. Building and operating Kubernetes platforms, writing Go and Python tooling, and designing reliable infrastructure on Azure and AWS.
 
 #### Tech Stack
 
