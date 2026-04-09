@@ -1,46 +1,25 @@
-### `$ whoami`
-- :runner: I'm Veerendra
-- :india: I'm from India
-- :technologist: I'm a Site Reliability Engineer
-- :coffee: I love coffee (specially while `$ troubleshooting` things)
-- :memo: I `python`, `go`, `shell`, `ansible`, `terraform`, `docker`, `kubernetes`,...
-- :fire: I'm passionate about 
-  - :closed_lock_with_key: Information Security
-  - :floppy_disk: Operating Systems(Linux)
-  - :desktop_computer: Computer Networking
+## Hey, I'm Veerendra :wave:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=veerendra2&show_icons=true&theme=dark)
+Passionate about technology and open source. When I'm not wrangling clusters, you'll find me contributing to open source or writing about SRE topics on my [blog](https://veerendra2.github.io).
 
-<!--
-[<img src="https://user-images.githubusercontent.com/8393701/133156799-6a076696-48c2-41c7-b7b0-07d7e3b4b715.png" width="90">](https://www.credly.com/badges/4fa5dfdd-0a75-44cd-9e9b-5df70c42d905)
-[<img src="https://tryhackme-badges.s3.amazonaws.com/veerendra2.png">]()
--->
+### Skills
 
-[<img src="https://img.shields.io/badge/Blog-veerendra2.github.io-green?style=flat">](https://veerendra2.github.io)
-[<img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium">](https://veerendra2.medium.com/)
-[<img src="https://img.shields.io/badge/dev.to-12100E?style=flat&logo=dev.to">](https://dev.to/veerendra2)
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/veerendra-k/)
-[<img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github">](https://github.com/veerendra2)
-[<img src="https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=white">](https://gitlab.com/veerendrav2)
-[<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white">](https://stackoverflow.com/users/2200798/veerendra-kakumanu?tab=profile)
-[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=x&logoColor=white">](https://x.com/remark6205)
-[<img src="https://img.shields.io/badge/Youtube-white?style=flat&logo=youtube&logoColor=red">](https://www.youtube.com/@noobiator90)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Shell](https://img.shields.io/badge/Shell/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white) ![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=flat&logo=redhatopenshift&logoColor=white) ![ArgoCD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat&logo=argo&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat&logo=gitlab&logoColor=white) ![Flux](https://img.shields.io/badge/Flux_CD-5468FF?style=flat&logo=flux&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white) ![Istio](https://img.shields.io/badge/Istio-466BB0?style=flat&logo=istio&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white) ![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security+-C8202F?style=flat&logo=comptia&logoColor=white) ![CCNA](https://img.shields.io/badge/CCNA-1BA0D7?style=flat&logo=cisco&logoColor=white)
 
+---
 
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=veerendra2&theme=github_dark" alt="Profile Details">
+</p>
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=veerendra2&theme=github_dark" height="165" alt="Stats">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=veerendra2&theme=github_dark&utcOffset=2" height="165" alt="Productive Time">
+</p>
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=veerendra2&theme=github_dark" height="165" alt="Repos per Language">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=veerendra2&theme=github_dark" height="165" alt="Most Commit Language">
+</p>
 
+---
 
-
-<!--
-**veerendra2/veerendra2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img src="https://img.shields.io/badge/Blog-veerendra2.github.io-green?style=flat">](https://veerendra2.github.io) [<img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium">](https://veerendra2.medium.com/) [<img src="https://img.shields.io/badge/dev.to-12100E?style=flat&logo=dev.to">](https://dev.to/veerendra2) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/veerendra-k/) [<img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github">](https://github.com/veerendra2) [<img src="https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=white">](https://gitlab.com/veerendrav2) [<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white">](https://stackoverflow.com/users/2200798/veerendra-kakumanu?tab=profile) [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=x&logoColor=white">](https://x.com/remark6205) [<img src="https://img.shields.io/badge/Youtube-white?style=flat&logo=youtube&logoColor=red">](https://www.youtube.com/@noobiator90)
